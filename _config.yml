@@ -1,0 +1,10 @@
+# Site settings
+title: Hatchly
+email: developers@netsells.co.uk
+description: ""
+baseurl: ""
+url: "http://hatchly.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
